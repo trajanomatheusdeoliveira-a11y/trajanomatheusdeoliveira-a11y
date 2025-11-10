@@ -35,6 +35,9 @@ Atualmente, estou aprendendo os conceitos básicos de **programação back-end**
 Um pequeno jogo de RPG em texto desenvolvido em **Java**.  
 Explora conceitos de **programação orientada a objetos**, **sistemas de combate** e **interatividade em console**.
 
+### [Projeto: Site de Espanhol](https://trajanomatheusdeoliveira-a11y.github.io/site-de-espanhol-beta-/)
+Um site simples desenvolvido utilizando `HTML, CSS e JavaScript`,  
+explorando os conceitos básicos de desenvolvimento **front-end** e **web**.
 
 ---
 
