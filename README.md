@@ -35,7 +35,6 @@ Atualmente, estou aprendendo os conceitos básicos de **programação back-end**
 Um pequeno jogo de RPG em texto desenvolvido em **Java**.  
 Explora conceitos de **programação orientada a objetos**, **sistemas de combate** e **interatividade em console**.
 
-*(Adicione aqui outros projetos relevantes quando estiverem prontos, com links e descrições.)*
 
 ---
 
