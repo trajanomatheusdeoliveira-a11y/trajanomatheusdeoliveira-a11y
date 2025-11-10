@@ -17,7 +17,7 @@ Atualmente, estou aprendendo os conceitos básicos de **programação back-end**
 
 **Linguagens e Tecnologias**
 - Java (básico)
-- Python (básico)
+- Pythom (básico)
 - HTML e CSS (básico)
 - JavaScript (iniciante)
 
