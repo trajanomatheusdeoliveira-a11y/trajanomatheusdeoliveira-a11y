@@ -43,7 +43,7 @@ explorando os conceitos básicos de desenvolvimento **front-end** e **web**.
 
 ## Interesses
 
-- Estudo de idiomas — atualmente, **italiano (nível A1)** e **inglês (nível B1)**.  
+- Estudo de idiomas — atualmente, **italiano (nível A1)** , **inglês (nível B1)** e **espanhol(intermediário)**.  
 - Áreas relacionadas à **tecnologia**, **inovação** e **aprendizado contínuo**.  
 - Desenvolvimento de **projetos pessoais** e **colaboração** em iniciativas open source.
 
