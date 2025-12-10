@@ -45,7 +45,7 @@ explorando os conceitos básicos de desenvolvimento **front-end** e **web**.
 
 - Estudo de idiomas — atualmente, **italiano (nível A1)** , **inglês (nível B1)** e **espanhol(intermediário)**.  
 - Áreas relacionadas à **tecnologia**, **inovação** e **aprendizado contínuo**.  
-- Desenvolvimento de **projetos pessoais** e **colaboração** em iniciativas open source.
+- Desenvolvimento de **projetos pessoais** e aprimoramento dos conhecimentos em STEM voltados para a TI.
 
 ---
 
