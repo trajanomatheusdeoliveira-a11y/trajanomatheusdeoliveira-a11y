@@ -1,6 +1,6 @@
 # Sobre mim
 
-Olá, meu nome é **Matheus Trajano**, tenho **15 anos** e sou estudante do **curso técnico em Desenvolvimento de Sistemas** no **Instituto Federal Sul-rio-grandense (IFSul)**.  
+Olá, meu nome é **Matheus Trajano**, tenho **16 anos** e sou estudante do **curso técnico em Desenvolvimento de Sistemas** no **Instituto Federal Sul-rio-grandense (IFSul)**.  
 Atualmente, estou aprendendo os conceitos básicos de **programação back-end**, com foco em **Java** e **Python**, e possuo conhecimentos iniciais em **desenvolvimento front-end**, utilizando **HTML, CSS** e **JavaScript**.
 
 ---
