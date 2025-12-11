@@ -31,7 +31,7 @@ Atualmente, estou aprendendo os conceitos básicos de **programação back-end**
 
 ## Projetos em Destaque
 
-### [Projeto: RPG em Java]([https://github.com/trajanomatheusdeoliveira-a11y](https://github.com/trajanomatheusdeoliveira-a11y/projetos-java/blob/main/text_game.java))
+### [Projeto: RPG em Java](https://github.com/trajanomatheusdeoliveira-a11y/projetos-java/blob/main/text_game.java)
 Um pequeno jogo de RPG em texto desenvolvido em **Java**.  
 Explora conceitos de **programação orientada a objetos**, **sistemas de combate** e **interatividade em console**.
 
